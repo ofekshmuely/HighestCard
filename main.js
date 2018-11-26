@@ -26,7 +26,7 @@ document.querySelectorAll("img")[1].setAttribute("src", randomimageB);
         document.querySelector("h1").innerHTML = "Player 2 Wins! 🚩";
       }
       else {
-        document.querySelector("h1").innerHTML = "Its a Draw!";
+        document.querySelector("h1").innerHTML = "Its a Tie!";
       }
       
     //play again
